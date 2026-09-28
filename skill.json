@@ -1,0 +1,9 @@
+{
+  "name": "genpark-run-length-encoding-rle-delta-skill",
+  "version": "1.0.0",
+  "description": "Run-Length Encoding (RLE) and Delta-ZigZag differential integer serialization engine",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
