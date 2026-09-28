@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-run-length-encoding-rle-delta-skill"
+version = "1.0.0"
+description = "Run-Length Encoding (RLE) and Delta-ZigZag differential integer serialization engine"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/alphaparkinc/genpark-run-length-encoding-rle-delta-skill.git"
